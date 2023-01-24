@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\TP TDI 2\bin\Debug\TP TDI 2.exe.config
+C:\Users\admin\Desktop\TP TDI 2\bin\Debug\TP TDI 2.exe
+C:\Users\admin\Desktop\TP TDI 2\obj\Debug\TP TDI 2.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\TP TDI 2\obj\Debug\TP TDI 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\TP TDI 2\obj\Debug\TP_TDI_2.frmCaculatrice.resources
+C:\Users\admin\Desktop\TP TDI 2\obj\Debug\TP_TDI_2.MENU.resources
+C:\Users\admin\Desktop\TP TDI 2\obj\Debug\TP_TDI_2.Properties.Resources.resources
+C:\Users\admin\Desktop\TP TDI 2\obj\Debug\TP TDI 2.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\TP TDI 2\obj\Debug\TP TDI 2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\TP TDI 2\obj\Debug\TP TDI 2.exe
+C:\Users\admin\Desktop\TP TDI 2\obj\Debug\TP TDI 2.pdb
+C:\Users\admin\Desktop\TP TDI 2\bin\Debug\TP TDI 2.pdb
